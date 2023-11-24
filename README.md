@@ -12,6 +12,7 @@ Top selling Product
 
 
 PERFORMANCE NOTES:
+
 Portland reached 1,000 sales in December to close out the year
 
 High Top product returns doubled in Mexico (4 to 8), at a return rate of 1.2%
