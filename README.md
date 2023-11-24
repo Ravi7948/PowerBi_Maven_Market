@@ -9,3 +9,11 @@ Revenue vs Target,
 Top selling Product
 
 ![image](https://github.com/Ravi7948/PowerBi_Maven_Market/assets/151816158/2492492c-c537-45ff-83a3-bcac801575b3)
+
+
+PERFORMANCE NOTES:
+Portland reached 1,000 sales in December to close out the year
+
+High Top product returns doubled in Mexico (4 to 8), at a return rate of 1.2%
+
+Plato products drove the strongest overall profit margin (63.55%) in 1998 
